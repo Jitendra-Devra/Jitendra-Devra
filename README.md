@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-devra&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-devra" /> </p>
-
 - 📫 How to reach me **jitudevra02468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -83,8 +81,8 @@ fill="currentColor" viewBox="0 0 24 24" >
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendra-devra&show_icons=true&locale=en&layout=compact" alt="jitendra-devra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jitendra-Devra&show_icons=true&locale=en&layout=compact" alt="Jitendra-Devra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendra-devra&show_icons=true&locale=en" alt="jitendra-devra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendra-Devra&show_icons=true&locale=en" alt="Jitendra-Devra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-devra&" alt="jitendra-devra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Devra&" alt="Jitendra-Devra" /></p>
